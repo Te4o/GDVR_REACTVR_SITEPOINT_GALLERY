@@ -3,11 +3,11 @@ Virtual Reality is set to change the way we use computers and the web. Michaela 
 
 https://www.sitepoint.com/building-a-full-sphere-3d-image-gallery-with-react-vr/
 
-##Requirements
-###Node.js
-##Installation Steps (if applicable)
-###Clone repo
-###Check out develop branch: git checkout develop
-###Run npm install
-###Run npm run start
-###Visit http://localhost:8081/vr/
+## Requirements
+* Node.js
+## Installation Steps (if applicable)
+* Clone repo
+* Check out develop branch: git checkout develop
+* Run npm install
+* Run npm run start
+* Visit http://localhost:8081/vr/
